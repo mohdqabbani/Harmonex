@@ -1,0 +1,16 @@
+@media print {
+
+   .hidden-print {
+       display: none !important;
+       height: 0;
+    }
+    .example-print {
+       display: block;
+       color: red;
+    }
+    .a{
+    	margin-left:200px;
+    	font-size:45px;
+    	font-weight:bolder;
+    }
+}

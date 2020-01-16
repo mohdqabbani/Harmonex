@@ -1,0 +1,27 @@
+
+@media only screen  and (min-width : 1224px) {
+  #phone{
+    position:relative; 
+    Left:385px;
+ 
+}
+#CusName{
+    position:relative; 
+    Right:385px;
+}
+}
+
+
+@media print {
+   .hidden-print {
+       display: none !important;
+       height: 0;
+    }
+    .example-print {
+       display: block;
+       color: red;
+    }
+}
+
+
+
